@@ -1,0 +1,12 @@
+# Build files
+build/
+*.exe
+*.o
+*.obj
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
